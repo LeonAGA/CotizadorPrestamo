@@ -15,7 +15,7 @@
 ## Captures
 
 <p align="center">
-    <img src="img/capture/Loan.png">
+    <img src="img/capture/Loan.PNG">
 </p>
 
 ## Features
